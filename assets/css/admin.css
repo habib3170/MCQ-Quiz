@@ -1,0 +1,12 @@
+.meta-options {
+    display: flex;
+    align-items: center;
+}
+.meta-options label {
+    color: #000;
+    font-size: 14px;
+}
+.meta-options input,
+.meta-options select {
+    height: 36px;
+}
